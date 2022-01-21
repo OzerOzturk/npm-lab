@@ -1,0 +1,19 @@
+{
+  "name": "npm-lab",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 5000 -R mocha-multi --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OzerOzturk/npm-lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OzerOzturk/npm-lab/issues"
+  },
+  "homepage": "https://github.com/OzerOzturk/npm-lab#readme"
+}
